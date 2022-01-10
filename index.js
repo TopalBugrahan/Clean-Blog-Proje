@@ -43,4 +43,5 @@ app.get("/add_post", massagePage.addPostPage);
 
 app.listen(3000, () => {
   console.log("Port 3000 de server oluşturludu");
+  console.log("oluşruuuuu")
 });
